@@ -1,0 +1,84 @@
+{
+  "entry": {
+    "js": "/web/dist/web-C3J6VEIR.js",
+    "css": "/web/dist/web-37BJDYNB.css"
+  },
+  "assets": [
+    {
+      "name": "web-C3J6VEIR.js",
+      "size": 217752,
+      "gzip": 67373
+    },
+    {
+      "name": "web-37BJDYNB.css",
+      "size": 88314,
+      "gzip": 18658
+    },
+    {
+      "name": "chunks/admin-GFG5ORDG.js",
+      "size": 86008,
+      "gzip": 22839
+    },
+    {
+      "name": "chunks/admin-I4QRYMFT.css",
+      "size": 39860,
+      "gzip": 8061
+    },
+    {
+      "name": "chunks/App-EXTTMUTZ.css",
+      "size": 28575,
+      "gzip": 7257
+    },
+    {
+      "name": "chunks/App-F5KIDLEV.js",
+      "size": 25970,
+      "gzip": 7778
+    },
+    {
+      "name": "chunks/backdrop-particles-M5CAS4WT.js",
+      "size": 2032,
+      "gzip": 1119
+    },
+    {
+      "name": "chunks/chunk-DCANE7XH.js",
+      "size": 638,
+      "gzip": 388
+    },
+    {
+      "name": "chunks/chunk-M6EUFCKY.js",
+      "size": 41024,
+      "gzip": 11516
+    },
+    {
+      "name": "chunks/chunk-OMY5QYCJ.js",
+      "size": 383211,
+      "gzip": 143095
+    },
+    {
+      "name": "chunks/chunk-QALK32V3.js",
+      "size": 8248,
+      "gzip": 3208
+    },
+    {
+      "name": "chunks/chunk-TAWQDRRQ.js",
+      "size": 548610,
+      "gzip": 137931
+    },
+    {
+      "name": "chunks/evidence-depth-YUBXMP7B.js",
+      "size": 2488,
+      "gzip": 1368
+    },
+    {
+      "name": "chunks/lib-OEXOGXB3.js",
+      "size": 4388,
+      "gzip": 1870
+    },
+    {
+      "name": "chunks/token-chart-3d-ATHAWSLK.js",
+      "size": 5107,
+      "gzip": 2372
+    }
+  ],
+  "generatedAt": "2026-09-24T15:15:33.951Z"
+}

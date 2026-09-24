@@ -1,0 +1,52 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+
+  "provider": {
+    "bonsai": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Bonsai Local - llama.cpp",
+      "options": {
+        "baseURL": "http://127.0.0.1:8080/v1"
+      },
+      "models": {
+        "Bonsai-2-27B-Philadelphia-Class-MIXED-PTQ1-Q4_0": {
+          "name": "Bonsai 2 27B Q4",
+          "limit": {
+            "context": 32768,
+            "output": 8192
+          }
+        }
+      }
+    }
+  },
+
+  "compaction": {
+    "auto": true,
+    "keep": {
+      "tokens": 8000
+    },
+    "buffer": 10000
+  },
+
+  "watcher": {
+    "ignore": [
+      "node_modules/**",
+      ".git/**",
+      "dist/**",
+      "build/**",
+      ".next/**",
+      "coverage/**",
+      "vendor/**"
+    ]
+  },
+
+  "skills": [
+    "~/.config/opencode/skills"
+  ],
+
+  "permission": {
+    "skill": {
+      "*": "allow"
+    }
+  }
+}
